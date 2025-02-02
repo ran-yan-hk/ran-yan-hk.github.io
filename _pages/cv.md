@@ -22,8 +22,11 @@ Publications
 
 Work experience
 ======
-* NLP Research at ZK Space (2023.05-2023.09) 
+* Intern at ZK Space (2023.05-2023.09) 
   * Research and design event driven trading strategy
+
+* Intern at ByteDance (2024.09-Now)
+  * Research on video genreation system optimizations
   
 Skills
 ======
