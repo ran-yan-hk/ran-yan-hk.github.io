@@ -9,9 +9,8 @@ redirect_from:
 
 ## Hi!
 
-I'm a third-year PhD student at the Computer Science Department, HKUST. My research interests include machine learning systems, large language models (LLM), generative inference, and LLM pre-training. Before joining to HKUST, I was an undergraduate at Peking University.
+I am a third-year PhD student in the Computer Science Department at HKUST. My primary research focus is on machine learning systems, with a particular emphasis on heterogeneous deployments for LLM generative inference and pre-training. Recently, I also work on kernel optimizations for sparse attention mechanisms. Prior to joining HKUST, I completed my undergraduate studies at Peking University.
 
-I am very fortunate to be advised by [Prof. Binhang Yuan](https://binhangyuan.github.io/site/) of Relaxed System Lab from HKUST. My supervisor is always rigorous and energetic. 
+I am fortunate to be advised by [Prof. Binhang Yuan](https://binhangyuan.github.io/site/), whose rigorous and energetic guidance has been invaluable to my research.
 
-For more information about my publications, CV, etc., please check out corresponding pages.
-
+For more information about my publications, CV, and other professional activities, please refer to the corresponding pages.
