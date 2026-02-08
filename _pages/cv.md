@@ -23,10 +23,13 @@ Publications
 Work experience
 ======
 * Intern at ZK Space (2023.05-2023.09) 
-  * Research and design event driven trading strategy
+  * Research and design event driven trading strategy.
 
-* Intern at ByteDance (2024.09-Now)
-  * Research on video genreation system optimizations
+* Intern at ByteDance (2024.09-2025.07)
+  * Research on adapting SOTA sparse attention NSA and designing distributed VAE for video generation.
+
+* Intern at Ant Group (2025.07-Now)
+  * Research on asynchronous RL training over heterogeneous GPUs and tree-attention-based RL training.
   
 Skills
 ======
@@ -40,4 +43,4 @@ Talks
   
 Hobbies
 ======
-* In my spare time, I enjoy investing on financial markets. *"Investment is a marathon, which is the same as my research."*
+* In my spare time, I enjoy skiing, and I'm a snowboarder. Although I'm currently a beginner, I improve very fast.

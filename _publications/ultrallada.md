@@ -7,5 +7,5 @@ excerpt: # 'This paper is about fixing template issue #693.'
 date: 2026-01-01
 venue: 'International Conference on Learning Representations (ICLR)'
 paperurl: # 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Guangxin He, Shen Nie, Fengqi Zhu, Yuankang Zhao, Tianyi Bai, Ran Yan, Jie Fu, Chongxuan Li, and Binhang Yuan'
+citation: 'Guangxin He, Shen Nie, Fengqi Zhu, Yuankang Zhao, Tianyi Bai, <b>Ran Yan</b>, Jie Fu, Chongxuan Li, and Binhang Yuan'
 ---

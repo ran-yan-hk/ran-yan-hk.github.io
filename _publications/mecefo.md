@@ -7,5 +7,5 @@ excerpt: # 'This paper is about fixing template issue #693.'
 date: 2025-08-01
 venue: 'Neural Information Processing Systems (NIPS)'
 paperurl: # 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Rizhen Hu, Yutong He, Ran Yan, Mou Sun, Binghang Yuan, Kun Yuan'
+citation: 'Rizhen Hu, Yutong He, <b>Ran Yan</b>, Mou Sun, Binghang Yuan, Kun Yuan'
 ---
